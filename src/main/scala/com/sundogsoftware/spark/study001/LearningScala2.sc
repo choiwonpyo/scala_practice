@@ -20,6 +20,7 @@ number match {
   case _ => println("Something else")
 }
 
+// this is same with 1.to(4) (spark 문법)
 for (x <- 1 to 4) {
   val squared = x * x
   println(squared)
