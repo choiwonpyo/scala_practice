@@ -1,4 +1,6 @@
 ## 1. Spark 기본기
+Spark Programming Guide
+https://spark.apache.org/docs/2.1.1/programming-guide.html#resilient-distributed-datasets-rdds
 
 ### 0) 기본 개념
 처음에는 Spark 는 RDD 가 메인이었음.
